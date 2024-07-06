@@ -1,0 +1,14 @@
+{
+	"commands": {
+		"weather": {
+			"syntax": "$weather <location>",
+			"description": "Command for fetching weather for specific location",
+			"parameter": "location"
+		},
+		"news": {
+			"syntax": "$news <topic>",
+			"description": "Command for fetching news on a specific topic",
+			"parameter": "topic"
+		}
+	}
+}
